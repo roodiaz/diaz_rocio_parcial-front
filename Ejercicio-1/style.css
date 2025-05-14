@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#tabla-autos {
+    width: 30%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+#tabla-autos th, #tabla-autos td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+#tabla-autos thead {
+    background-color: #333;
+    color: white;
+}
+
+#formulario {
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+}
